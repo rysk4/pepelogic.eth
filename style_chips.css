@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css?family=UnifrakturCook:700");
+@import url("https://fonts.googleapis.com/css?family=IM+Fell+English");
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #dbcbaf;
+  font-family: "IM Fell English";
+  font-size: 20px;
+  line-height: 1.6;
+  background-size: containe;
+}
+
+#wrapper {
+  margin: 0px auto;
+  max-width: 700px;
+  height: auto;
+  position: relative;
+  Background-position: center center;
+  background-size: cover;
+  border-radius: 5px;
+  overflow: hidden;
+  padding: 40px;
+}
+
+.initial {
+  background-color: red;
+  display: inline;
+  padding: 20px;
+  position: relative;
+
+
+}
+
+p.first {
+  font-family: UnifrakturCook;
+  font-size: 40px;
+  opacity: 0.8;
+  line-height: 1.1;
+  color: #063bb9;
+  letter-spacing: 1px;
+}
+
+.firstLetter {
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/334580/07-25.png");
+  background-size: contain;
+  color: black;
+  float: left;
+  font-size: 100px;
+  width: 125px;
+  height: 125px;
+  margin-right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3px;
+  text-shadow: 2px 2px 0 #063bb9, -2px 2px 0 #063bb9, 2px -2px 0 #063bb9, -2px -2px 0 #063bb9, 0px 2px 0 #063bb9, 0px -2px 0 #063bb9, -2px 0px 0 #063bb9, 2px 0px 0 #063bb9, 2px 2px 0 #000, -2px 2px 0 #000, 2px -2px 0 #000, -2px -2px 0 #000, 0px 2px 0 #000, 0px -2px 0 #000, -2px 0px 0 #000, 2px 0px 0 #000, 1px 2px 0 #000, -1px 2px 0 #000, 1px -2px 0 #000, -1px -2px 0 #000, 2px 1px 0 #000, -2px 1px 0 #000, 2px -1px 0 #000, -2px -1px 0 #000;
+}
+
+
+p.second {
+  font-family: UnifrakturCook;
+  font-size: 40px;
+  opacity: 0.8;
+  line-height: 1.1;
+  color: #063bb9;
+  letter-spacing: 1px;
+}
+
+
+.firstLetter {
+  background-image: url("decor.png");
+  background-size: contain;
+  color: #dbcbaf;
+  float: left;
+  font-size: 100px;
+  width: 125px;
+  height: 125px;
+  margin-right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3px;
+  text-shadow: 2px 2px 0 #063bb9, -2px 2px 0 #063bb9,
+  2px -2px 0 #063bb9, -2px -2px 0 #063bb9,
+  0px 2px 0 #063bb9, 0px -2px 0 #063bb9,
+  -2px 0px 0 #063bb9, 2px 0px 0 #063bb9,
+  2px 2px 0 #000, -2px 2px 0 #000,
+  2px -2px 0 #000, -2px -2px 0 #000,
+  0px 2px 0 #000, 0px -2px 0 #000,
+  -2px 0px 0 #000, 2px 0px 0 #000,
+  1px 2px 0 #000, -1px 2px 0 #000,
+  1px -2px 0 #000, -1px -2px 0 #000,
+  2px 1px 0 #000, -2px 1px 0 #000,
+  2px -1px 0 #000, -2px -1px 0 #000;
+}
